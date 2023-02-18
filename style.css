@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color:#81C3C6  
+  ;
+  }
+
+h1 { background-color:#F07393 ;
+    color:#DCFEFD ;
+    padding: 40px;
+    text-align:center;
+    }
+
+p {
+  background-color:#F79CB4   ;
+  text-align:center;
+}
+
+img src {
+  text-align:center;
+}
